@@ -6,4 +6,4 @@ function skillMember() {
         salary: 1000
     };
     return member;
-})
+}
